@@ -6,7 +6,7 @@
 
 
 ## Who We Are
-We are Joshua and Kyle, a passionate two-person indie game development team based in Aberdeen. Fueled by our love for gaming, we started 942Games to create unique, enjoyable experiences that we personally love to play. Our small size allows us to focus on what truly matters: making games that are fun, engaging, and memorable.
+We are Joshua and Kyle, a passionate two-person indie game development team based in the North of Scotland. Fueled by our love for gaming, we started 942Games to create unique, enjoyable experiences that we personally love to play. Our small size allows us to focus on what truly matters: making games that are fun, engaging, and memorable.
 
 ## What We Do
 At 942Games, our mission is simple: **create games that we love to play**. Whether it’s an epic adventure or a quirky puzzle game, we pour our creativity and enthusiasm into every project. We're constantly experimenting with new ideas and mechanics, always pushing ourselves to deliver something special.
