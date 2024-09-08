@@ -1,8 +1,9 @@
 # Welcome to 942Games 🎮
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/dc6dff89-4ab9-49a3-a309-2f7cb751871f" alt="942Games Studio Logo" />
+<img src="https://github.com/user-attachments/assets/86f2f697-a8a3-463e-8870-6c0c21ec4754" alt="942Games Studio Logo" />
 </p>
+
 
 ## Who We Are
 We are Joshua and Kyle, a passionate two-person indie game development team based in Aberdeen. Fueled by our love for gaming, we started 942Games to create unique, enjoyable experiences that we personally love to play. Our small size allows us to focus on what truly matters: making games that are fun, engaging, and memorable.
