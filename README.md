@@ -12,8 +12,7 @@ We are Joshua and Kyle, a passionate two-person indie game development team base
 At 942Games, our mission is simple: **create games that we love to play**. Whether it’s an epic adventure or a quirky puzzle game, we pour our creativity and enthusiasm into every project. We're constantly experimenting with new ideas and mechanics, always pushing ourselves to deliver something special.
 
 ## Upcoming Projects
-- **Crazy Ambulance**: Inspired by the classic Crazy Taxi, this game offers a fresh, exhilarating experience as you navigate the chaos of urban streets.
-- **More Coming Soon**: Keep an eye out for more exciting projects on the horizon!
+- **Coming Soon!**: Keep an eye out for more exciting projects on the horizon!
 
 ## Follow Us
 - [Twitter/Other Socials]
